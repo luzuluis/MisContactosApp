@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="contenido_descripcion">Imagen de Usuario</string>
+    <string name="txtContacto">Crear Contacto</string>
+    <string name="nombre_del_contacto">nombre_del_contacto</string>
+    <string name="telefono">telefono</string>
+    <string name="email">email</string>
+    <string name="direccion">direccion</string>
+    <string name="imagen_de_usuario">imagen_de_usuario</string>
+</resources>
+
+
